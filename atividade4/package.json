@@ -1,0 +1,10 @@
+{
+    "name": "atividade4",
+    "version": "1.0.0",
+    "description": "Uma aplicação Node.js para operações matemáticas",
+    "main": "index.js",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
